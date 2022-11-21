@@ -1,1 +1,1 @@
-# Sample-Registration-page
+Registration-page
